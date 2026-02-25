@@ -4,6 +4,8 @@
 **Role:** Key User / System Administrator (Logistics IT)  
 **Technologies Used:** SQL (SQLite), Python (Pandas, Matplotlib), Data Visualization, IT Support Analytics  
 
+👉 **[Click Here to Download & View the Full Logistics IT Support Report](https://raw.githubusercontent.com/Ritikghoghari/Logistics-IT-Support-Analysis/main/Logistics_IT_Support_Analysis.html)** (Download the `.html` file and open it in your browser to see the charts and SQL insights).
+
 ---
 
 ## 🎯 Project Overview
